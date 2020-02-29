@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "13.8.0"
-  },
   "scripts": {
   	//change to nodemon for local testing
     "start": "node server.js"
