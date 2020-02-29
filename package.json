@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+  	//change to nodemon for local testing
     "start": "node server.js"
   },
   "keywords": [],
